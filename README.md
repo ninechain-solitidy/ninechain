@@ -1,5 +1,5 @@
 # ninechain
-INTRODUCTION
+
   Ninechain smart contract is based on TRON research and development, aiming to establish a set of decentralized, open and transparent decentralized agreement based on the open financial system, to meet the global users and institutions anytime and anywhere convenient short-term capital circulation and financial activities.
 
 1、Defi adopts a distributed decentralized circulation return mode. Defi automatically runs from chain 0. When the circulation is not enough to pay for the return quantity, Defi will automatically reset and move to the next chain up to the ninth chain.
